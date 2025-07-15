@@ -46,7 +46,7 @@
 
 ### 💡 Projetos em destaque
 
-- 🔗 [Portfólio Profissional](https://seu-portfolio.com)
+- 🔗 [Portfólio Profissional](https://portifoliokauaandre.netlify.app/)
 - 🔗 [Clones de Aplicativos Bancários](https://github.com/kauanascimento/clone-nubank)
 - 🔗 [Criador de Sites com IA Simulada](https://github.com/kauanascimento/criador-sites-ia)
 
