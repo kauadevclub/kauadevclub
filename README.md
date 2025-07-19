@@ -12,7 +12,6 @@
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🧪 Atuo como **Analista de Testes e Qualidade de Software**
 - 🛠️ Experiência com **testes manuais, automatizados e testes exploratórios**
-- 🔐 Interesse crescente em **Segurança da Informação** e testes de vulnerabilidade
 - 📈 Buscando constantemente elevar o nível de qualidade dos produtos digitais
 - 🤖 Automatizando processos com **Selenium, Postman, Playwright e Cypress**
 
