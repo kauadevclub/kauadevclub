@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou o Kauã André 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Front-end especializado em React</b><br>
-  <i>Transformando ideias em interfaces incríveis com HTML, CSS, JavaScript e Bootstrap.</i>
+  <b>Analista de Qualidade (QA) | Testes Manuais e Automatizados</b><br>
+  <i>Garantindo excelência, segurança e performance em cada entrega de software.</i>
 </p>
 
 ---
@@ -10,21 +10,33 @@
 ### 🚀 Sobre mim
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 💻 Apaixonado por tecnologia, design e desenvolvimento web moderno
-- 🔭 Atualmente focado em projetos com **React.js**, **Next.js** e **interfaces responsivas**
-- 📚 Sempre aprendendo novas ferramentas e frameworks
+- 🧪 Atuo como **Analista de Testes e Qualidade de Software**
+- 🛠️ Experiência com **testes manuais, automatizados e testes exploratórios**
+- 🔐 Interesse crescente em **Segurança da Informação** e testes de vulnerabilidade
+- 📈 Buscando constantemente elevar o nível de qualidade dos produtos digitais
+- 🤖 Automatizando processos com **Selenium, Postman, Playwright e Cypress**
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🧪 Ferramentas e Tecnologias que utilizo
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2D2E83?style=flat&logo=playwright&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🧪 Projetos de Qualidade e Testes
+
+- 🔗 [Testes Automatizados com Cypress](https://github.com/kauanascimento/testes-cypress)
+- 🔗 [API Testing com Postman e Newman](https://github.com/kauanascimento/testes-api-postman)
+- 🔗 [Playwright End-to-End para Aplicações Web](https://github.com/kauanascimento/testes-playwright)
+- 🔗 [Teste de Clones Bancários (Exploratórios)](https://github.com/kauanascimento/clone-nubank)
 
 ---
 
@@ -44,14 +56,6 @@
 
 ---
 
-### 💡 Projetos em destaque
-
-- 🔗 [Portfólio Profissional](https://portifoliokauaandre.netlify.app/)
-- 🔗 [Clones de Aplicativos Bancários](https://github.com/kauanascimento/clone-nubank)
-- 🔗 [Criador de Sites com IA Simulada](https://github.com/kauanascimento/criador-sites-ia)
-
----
-
 <p align="center">
-  ✨ "Código limpo, design responsivo e foco no usuário. Isso é desenvolvimento de verdade." ✨
+  ✨ "Testar é mais do que encontrar bugs. É proteger a experiência do usuário." ✨
 </p>
