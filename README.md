@@ -32,10 +32,8 @@ Estou em constante evolução, estudando novas ferramentas do ecossistema JavaSc
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
@@ -54,8 +52,8 @@ Estou em constante evolução, estudando novas ferramentas do ecossistema JavaSc
 
 ## 📫 Como me encontrar:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kaua-nome-do-perfil/) *(coloque seu link real aqui)*
-- 💻 [Portfólio](https://seudominio.com) *(se tiver)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaua-nome-do-perfil/) 
+- 💻 [Portfólio](https://seudominio.com) 
 - 📧 Email: **kauafacebook123@gmail.com**
 
 ---
