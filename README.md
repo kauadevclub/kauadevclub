@@ -1,62 +1,49 @@
-# 👋 Olá, eu sou Kauã André Fonseca
+# 👨‍💻 Kauã Nascimento
 
-### 💻 Desenvolvedor Front-End | Especialista em React, Vite, Tailwind e Interfaces Web Performáticas
-
-Sou desenvolvedor front-end apaixonado por criar interfaces modernas, rápidas e responsivas. Tenho foco em performance, código limpo e boas práticas com as principais tecnologias da web como:
-
-- ✅ **React.js** com **Vite**
-- ✅ **HTML5**, **CSS3**, **JavaScript (ES6+)**
-- ✅ **TailwindCSS**, **Bootstrap**
-- ✅ **Consumo de APIs REST**
-- ✅ **Git**, **GitHub**, **Scrum**, **Componentização**
-- ✅ Deploy com **Vercel** e **Netlify**
+**Desenvolvedor Front-End Júnior**  
+HTML | CSS | JavaScript | React.js | Tailwind CSS | Bootstrap
 
 ---
 
-## 🚀 Sobre mim
+🎯 Desenvolvedor Front-End apaixonado por criar **interfaces modernas, responsivas e funcionais**. Domino HTML5, CSS3, JavaScript (ES6+) e bibliotecas/frameworks como **React.js**, **Tailwind CSS** e **Bootstrap**.
 
-Sou um entusiasta do desenvolvimento front-end com experiência sólida em criação de aplicações web utilizando React + Vite. Busco sempre escrever código limpo, escalável e de fácil manutenção. Tenho domínio em ferramentas modernas para desenvolvimento ágil e focado na experiência do usuário.
-
-Atualmente atuo como Desenvolvedor Front-End na **Compasso UOL**, onde participo de projetos com React, Tailwind e APIs dinâmicas. Trabalho diariamente em ambientes ágeis com metodologias Scrum e versionamento no Git.
-
-Estou em constante evolução, estudando novas ferramentas do ecossistema JavaScript e contribuindo em projetos que tenham impacto real.
+Tenho experiência prática com projetos reais — sites, apps simples e interfaces completas — aplicando boas práticas, foco em usabilidade e código limpo. Sempre buscando evoluir, estou em constante estudo e desenvolvimento de novos projetos pessoais.
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## 🚀 Tecnologias & Ferramentas
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+- **Linguagens:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Bibliotecas:** React.js, Bootstrap, Tailwind CSS
+- **Outras habilidades:** Git, GitHub, Responsividade, Consumo de APIs REST
+- **Publicação de projetos:** GitHub Pages, Vercel
 
 ---
 
-## 📌 Projetos em destaque
+## 📂 Meus principais projetos
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|--------------|
-| **Portfólio Pessoal** | Site profissional com React + Vite, animações e integração com GitHub. | React, Vite, Tailwind |
-| **Landing Page Moderna** | Página de vendas responsiva com animações suaves. | HTML, CSS, JS, Bootstrap |
-| **Consumindo API de Clima** | App de previsão do tempo usando API pública. | React, Vite, Axios |
-
-*Acesse meus repositórios para ver mais projetos.*
-
----
-
-## 📫 Como me encontrar:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kaua-nome-do-perfil/) 
-- 💻 [Portfólio](https://seudominio.com) 
-- 📧 Email: **kauafacebook123@gmail.com**
+| Projeto | Descrição | Tecnologias | Link |
+|--------|-----------|-------------|------|
+| **Portfólio Profissional** | Meu site pessoal com projetos e contatos | HTML, CSS, JS | [Acessar](https://seusite.com) |
+| **To-Do List** | Lista de tarefas com salvamento local | JavaScript | [GitHub](https://github.com/seuusuario/todo-list) |
+| **Clone do YouTube** | Interface com simulação de vídeos | React + Tailwind | [Vercel](https://youtube-clone.vercel.app) |
+| **Landing Page Restaurante** | Site de restaurante com animações | HTML + CSS + JS | [GitHub Pages](https://seuusuario.github.io/restaurante) |
 
 ---
 
-> “A prática vence o medo. Todo código escrito me aproxima de ser melhor que ontem.” – Kauã André Fonseca
+## 📈 GitHub Stats
 
+![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- ✉️ Email: kaua.dev@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/kauanascimento](https://linkedin.com/in/kauanascimento)  
+- 💼 Portfólio: [www.seusite.com](https://seusite.com)  
+- 💻 GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+
+---
+
+📌 *Em busca de uma oportunidade como Desenvolvedor Front-End Júnior. Vamos conversar!*
