@@ -1,49 +1,50 @@
-# 👨‍💻 Kauã Nascimento
+👨‍💻 Kauã Nascimento
 
-**Desenvolvedor Front-End Júnior**  
-HTML | CSS | JavaScript | React.js | Tailwind CSS | Bootstrap
+Analista de Testes (QA) | Automação & Qualidade de Software
+Python | JavaScript | Selenium | Cypress | Playwright | Jest | Postman
 
----
+🎯 Sou Analista de Testes (QA) com foco em garantir a qualidade de software através de testes manuais e automatizados. Tenho experiência em identificação de bugs, escrita de casos de teste, automação de cenários e integração com pipelines de CI/CD.
 
-🎯 Desenvolvedor Front-End apaixonado por criar **interfaces modernas, responsivas e funcionais**. Domino HTML5, CSS3, JavaScript (ES6+) e bibliotecas/frameworks como **React.js**, **Tailwind CSS** e **Bootstrap**.
+Minha especialidade está em utilizar Python e JavaScript para criar scripts de automação e frameworks de testes, garantindo eficiência e confiabilidade nos processos de validação. Já trabalhei em projetos reais analisando fluxos de usuários, relatando falhas e aplicando boas práticas de QA para melhorar a experiência do usuário e reduzir riscos em produção.
 
-Tenho experiência prática com projetos reais — sites, apps simples e interfaces completas — aplicando boas práticas, foco em usabilidade e código limpo. Sempre buscando evoluir, estou em constante estudo e desenvolvimento de novos projetos pessoais.
+🚀 Busco sempre unir atenção aos detalhes, mentalidade crítica e conhecimento técnico para entregar software com o mais alto nível de qualidade.
 
----
+🛠️ Tecnologias & Ferramentas
 
-## 🚀 Tecnologias & Ferramentas
+Linguagens: Python, JavaScript
 
-- **Linguagens:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks & Bibliotecas:** React.js, Bootstrap, Tailwind CSS
-- **Outras habilidades:** Git, GitHub, Responsividade, Consumo de APIs REST
-- **Publicação de projetos:** GitHub Pages, Vercel
+Automação de Testes: Selenium, Cypress, Playwright
 
----
+Testes Unitários: Pytest, Jest
 
-## 📂 Meus principais projetos
+APIs: Postman, Insomnia
 
-| Projeto | Descrição | Tecnologias | Link |
-|--------|-----------|-------------|------|
-| **Portfólio Profissional** | Meu site pessoal com projetos e contatos | HTML, CSS, JS | [Acessar](https://seusite.com) |
-| **To-Do List** | Lista de tarefas com salvamento local | JavaScript | [GitHub](https://github.com/seuusuario/todo-list) |
-| **Clone do YouTube** | Interface com simulação de vídeos | React + Tailwind | [Vercel](https://youtube-clone.vercel.app) |
-| **Landing Page Restaurante** | Site de restaurante com animações | HTML + CSS + JS | [GitHub Pages](https://seuusuario.github.io/restaurante) |
+Versionamento: Git, GitHub
 
----
+Metodologias: Testes Manuais, Automação, Testes Funcionais, Testes de Regressão, Testes de API
 
-## 📈 GitHub Stats
+CI/CD: GitHub Actions, Jenkins (básico)
 
-![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
+📂 Projetos em Destaque
+Projeto	Descrição	Tecnologias	Link
+🚦 Automação de Login	Testes automatizados para login/logout com relatórios	Python + Selenium	GitHub
 
----
+🔍 API Testing	Testes de API com validação de endpoints e status code	Postman + Python	GitHub
 
-## 📫 Contato
+📱 E-commerce QA	Casos de teste manuais e automatizados em fluxo de compra	Cypress + JavaScript	GitHub
 
-- ✉️ Email: kaua.dev@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/kauanascimento](https://linkedin.com/in/kauanascimento)  
-- 💼 Portfólio: [www.seusite.com](https://seusite.com)  
-- 💻 GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+🐞 Bug Reports	Relatórios reais de bugs encontrados em aplicações	Markdown	GitHub
+📊 Estatísticas
 
----
 
-📌 *Em busca de uma oportunidade como Desenvolvedor Front-End Júnior. Vamos conversar!*
+
+
+📫 Contato
+
+✉️ Email: kauaprogamadorprofissional@123.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/kau%C3%A3-andr%C3%A9-fonseca-68b830341/
+
+💻 GitHub: github.com/seuusuario
+
+📌 Aberto a oportunidades como Analista de Testes (QA) Júnior com foco em qualidade de software e automação.
