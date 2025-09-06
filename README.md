@@ -26,16 +26,16 @@ Atualmente, estou focado em **React** e em boas práticas de **UI/UX** para entr
 
 ## 🌐 Redes & Contatos  
 <div align="center">
-  <a href="https://instagram.com/SEU-INSTAGRAM">
+  <a href="https://www.instagram.com/kauz.xyt_ofc/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://SEU-SITE.com">
+  <a href="https://kauaandrefrontendwebdesiginer.netlify.app/">
     <img src="https://img.shields.io/badge/Portfólio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/kau%C3%A3-andr%C3%A9-fonseca-68b830341/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="kauafacebook123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>  
