@@ -1,36 +1,46 @@
-# 👋 Olá, eu sou o Kauã André Fonseca  
+<!-- Fundo escuro no estilo cards -->
+<div align="center" style="background-color:#000000; padding:20px; border-radius:15px;">
 
-🚀 **Front-End Developer | Web Designer**  
-Apaixonado por transformar ideias em interfaces modernas, criativas e funcionais.  
-Tenho experiência no desenvolvimento de aplicações web responsivas, com foco em performance, usabilidade e design atrativo.  
+# 🌌 Olá, eu sou o **Kauã André Fonseca**  
+
+🎨 **Front-End Developer | Web Designer**  
+💻 Transformando ideias em interfaces modernas, criativas e funcionais.  
+
+</div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🪄 Sobre mim  
+Sou apaixonado por tecnologia e design, especializado em **desenvolvimento front-end**.  
+Minha missão é criar **interfaces responsivas, intuitivas e atrativas**, sempre unindo estética e performance.  
+Atualmente, estou focado em **React** e em boas práticas de **UI/UX** para entregar projetos de alto impacto.  
+
+---
+
+## 🚀 Tecnologias & Ferramentas  
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode" />  
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,github,vscode" />  
 </div>  
 
 ---
 
-## 📌 Sobre mim  
-💡 Busco sempre criar soluções digitais que unam estética e funcionalidade.  
-📚 Atualmente, estou me aprofundando em **React** e boas práticas de **UI/UX**.  
-🎯 Objetivo: contribuir em projetos inovadores e de impacto no mundo digital.  
-
----
-
-## 📊 Estatísticas do GitHub  
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>  
+## 🌐 Redes & Contatos  
+<div align="center">
+  <a href="https://instagram.com/SEU-INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://SEU-SITE.com">
+    <img src="https://img.shields.io/badge/Portfólio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>  
 
 ---
 
-## 🌎 Vamos nos conectar!  
-🔗 [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)  
-📧 **Email:** seuemail@email.com  
-
----
-✨ _"Cada linha de código é uma oportunidade de transformar ideias em experiências digitais incríveis."_  
+## 💡 Frase que me inspira  
+> _"Cada linha de código é uma oportunidade de transformar ideias em experiências digitais incríveis."_  
