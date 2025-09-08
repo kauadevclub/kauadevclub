@@ -1,5 +1,5 @@
 <!-- Fundo escuro no estilo cards -->
-<div align="center" style="background-color:#000000; padding:20px; border-radius:15px;">
+<div align="center" style="background-color:#black; padding:20px; border-radius:15px;">
 
 # 🌌 Olá, eu sou o **Kauã André Fonseca**  
 
