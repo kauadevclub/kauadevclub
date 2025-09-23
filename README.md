@@ -3,23 +3,27 @@
 
 # 🌌 Olá, eu sou o **Kauã André Fonseca**  
 
-🎨 **Front-End Developer | Web Designer**  
-💻 Transformando ideias em interfaces modernas, criativas e funcionais.  
+📊 **Analista de Dados | Power BI • Excel Avançado • Python • SQL**  
+🔎 Transformando dados em **insights estratégicos** para decisões inteligentes.  
 
 </div>
 
 ---
 
 ## 🪄 Sobre mim  
-Sou apaixonado por tecnologia e design, especializado em **desenvolvimento front-end**.  
-Minha missão é criar **interfaces responsivas, intuitivas e atrativas**, sempre unindo estética e performance.  
-Atualmente, estou focado em **React** e em boas práticas de **UI/UX** para entregar projetos de alto impacto.  
+Sou apaixonado por **tecnologia e análise de dados**, especializado em transformar grandes volumes de informações em relatórios e dashboards que realmente fazem a diferença.  
+Minha missão é **traduzir dados em conhecimento prático**, auxiliando empresas e projetos a tomarem decisões baseadas em fatos.  
+Atualmente, estou focado em **Power BI, Python para análise e SQL** para potencializar a análise de dados.  
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,github,vscode" />  
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />  
+  <br><br>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>  
 
 ---
@@ -35,7 +39,7 @@ Atualmente, estou focado em **React** e em boas práticas de **UI/UX** para entr
   <a href="https://www.linkedin.com/in/kau%C3%A3-andr%C3%A9-fonseca-68b830341/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="kauafacebook123@gmail.com">
+  <a href="mailto:kauafacebook123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>  
@@ -43,4 +47,4 @@ Atualmente, estou focado em **React** e em boas práticas de **UI/UX** para entr
 ---
 
 ## 💡 Frase que me inspira  
-> _"Cada linha de código é uma oportunidade de transformar ideias em experiências digitais incríveis."_  
+> _"Os dados são o novo petróleo. Mas, refinados com análise, eles se tornam conhecimento poderoso."_  
