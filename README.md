@@ -1,50 +1,61 @@
-<!-- Fundo escuro no estilo cards -->
-<div align="center" style="background-color:#000000; padding:20px; border-radius:15px;">
+# 👋 Olá, eu sou o Kauã André Fonseca
 
-# 🌌 Olá, eu sou o **Kauã André Fonseca**  
+🎨 **Web Designer & Designer Gráfico | Crio sites e identidades visuais modernas e profissionais.**
 
-📊 **Analista de Dados | Power BI • Excel Avançado • Python • SQL**  
-🔎 Transformando dados em **insights estratégicos** para decisões inteligentes.  
-
-</div>
+Sou apaixonado por transformar ideias em experiências digitais que encantam e geram resultados reais.  
+Combinando **design, tecnologia e estratégia**, desenvolvo interfaces modernas, responsivas e com foco total na experiência do usuário.
 
 ---
 
-## 🪄 Sobre mim  
-Sou apaixonado por **tecnologia e análise de dados**, especializado em transformar grandes volumes de informações em relatórios e dashboards que realmente fazem a diferença.  
-Minha missão é **traduzir dados em conhecimento prático**, auxiliando empresas e projetos a tomarem decisões baseadas em fatos.  
-Atualmente, estou focado em **Power BI, Python para análise e SQL** para potencializar a análise de dados.  
+## 🚀 Sobre mim
+
+💡 Tenho experiência sólida em:
+- **Criação de sites profissionais, landing pages e portfólios**
+- **Design de identidades visuais e logotipos**
+- **Desenvolvimento front-end com HTML, CSS, JavaScript e React**
+- **Design UI/UX moderno e responsivo**
+- **Criação de banners, artes e materiais digitais**
+
+Trabalho com cada projeto de forma personalizada, buscando sempre entregar o **melhor resultado visual e funcional** possível.  
+Meu foco é ajudar marcas, profissionais e empresas a **terem presença digital de alto nível**
+
+
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />  
-  <br><br>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>  
+## 🧰 Tecnologias & Ferramentas
+
+**Design:**  
+`Figma` | `Photoshop` | `Illustrator` 
+
+**Desenvolvimento:**  
+`HTML5` | `CSS3` | `JavaScript` | `React` 
+
+**Outras habilidades:**  
+`UX/UI Design` | `Branding` | `SEO Básico` | `Edição de Imagens` | `Criação de Banners Digitais`
 
 ---
 
-## 🌐 Redes & Contatos  
-<div align="center">
-  <a href="https://www.instagram.com/kauz.xyt_ofc/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://kauaandrefrontendwebdesiginer.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfólio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-andr%C3%A9-fonseca-68b830341/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kauafacebook123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>  
+## 🧠 Metodologia de Trabalho
+
+Meu processo criativo envolve:
+1. **Entendimento da marca e objetivo do cliente**  
+2. **Criação de layouts personalizados e intuitivos**  
+3. **Desenvolvimento otimizado para performance e responsividade**  
+4. **Testes e aprimoramentos visuais até o resultado ideal**
+
+Sempre com foco em **entregar um design que comunique, envolva e converta**.
 
 ---
 
-## 💡 Frase que me inspira  
-> _"Os dados são o novo petróleo. Mas, refinados com análise, eles se tornam conhecimento poderoso."_  
+## 🌍 Conecte-se comigo
+
+📩 **E-mail:** kauaandrefonseca@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/kauaandrefonseca](https://linkedin.com/in/kauaandrefonseca)  
+🌐 **Portfólio:** (adicione seu link aqui quando estiver pronto)  
+📸 **Instagram (opcional):** (adicione se quiser divulgar suas artes)
+
+---
+
+⭐ *“Design não é só o que se vê, mas o que se sente ao usar.”*  
+Feito com 💻, 🎨 e muita paixão por **criar experiências digitais incríveis.**
