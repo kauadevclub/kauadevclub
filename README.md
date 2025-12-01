@@ -1,61 +1,90 @@
-# 👋 Olá, eu sou o Kauã André Fonseca
+👋 Olá, eu sou o Kauã André Fonseca
 
-🎨 **Web Designer & Designer Gráfico | Crio sites e identidades visuais modernas e profissionais.**
+💻 Desenvolvedor Front-End
+🚀 Especialista em interfaces modernas, responsivas e performáticas
 
-Sou apaixonado por transformar ideias em experiências digitais que encantam e geram resultados reais.  
-Combinando **design, tecnologia e estratégia**, desenvolvo interfaces modernas, responsivas e com foco total na experiência do usuário.
+Sou apaixonado por criar experiências digitais que unem velocidade, usabilidade, estética e código limpo.
+Trabalho com tecnologia para transformar ideias em interfaces fluidas, intuitivas e de alto padrão.
 
----
+🚀 Sobre mim
 
-## 🚀 Sobre mim
+Sou desenvolvedor front-end com experiência na criação de sites profissionais, landing pages, sistemas e portfólios utilizando tecnologias modernas.
 
-💡 Tenho experiência sólida em:
-- **Criação de sites profissionais, landing pages e portfólios**
-- **Design de identidades visuais e logotipos**
-- **Desenvolvimento front-end com HTML, CSS, JavaScript e React**
-- **Design UI/UX moderno e responsivo**
-- **Criação de banners, artes e materiais digitais**
+Tenho foco em:
 
-Trabalho com cada projeto de forma personalizada, buscando sempre entregar o **melhor resultado visual e funcional** possível.  
-Meu foco é ajudar marcas, profissionais e empresas a **terem presença digital de alto nível**
+Performance
 
+Boas práticas de código
 
+Componentização eficiente
 
----
+Experiência do usuário (UX)
 
-## 🧰 Tecnologias & Ferramentas
+Design de interfaces (UI)
 
-**Design:**  
-`Figma` | `Photoshop` | `Illustrator` 
+Mesmo sendo júnior, busco entregar trabalhos com qualidade de nível sênior, seguindo padrões profissionais, responsividade avançada e código organizado.
 
-**Desenvolvimento:**  
-`HTML5` | `CSS3` | `JavaScript` | `React` 
+🧰 Tecnologias & Ferramentas
+Front-End
 
-**Outras habilidades:**  
-`UX/UI Design` | `Branding` | `SEO Básico` | `Edição de Imagens` | `Criação de Banners Digitais`
+HTML5
 
----
+CSS3 (Flexbox, Grid, animações, responsividade avançada)
 
-## 🧠 Metodologia de Trabalho
+JavaScript (ES6+)
 
-Meu processo criativo envolve:
-1. **Entendimento da marca e objetivo do cliente**  
-2. **Criação de layouts personalizados e intuitivos**  
-3. **Desenvolvimento otimizado para performance e responsividade**  
-4. **Testes e aprimoramentos visuais até o resultado ideal**
+React (Hooks, SPA, componentização)
 
-Sempre com foco em **entregar um design que comunique, envolva e converta**.
+Design de Interface (UI)
 
----
+(sem ser web designer)
 
-## 🌍 Conecte-se comigo
+Figma – prototipação
 
-📩 **E-mail:** kauaandrefonseca@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/kauaandrefonseca](https://linkedin.com/in/kauaandrefonseca)  
-🌐 **Portfólio:** (adicione seu link aqui quando estiver pronto)  
-📸 **Instagram (opcional):** (adicione se quiser divulgar suas artes)
+Photoshop e Illustrator – apoio visual
 
----
+UI/UX Thinking
 
-⭐ *“Design não é só o que se vê, mas o que se sente ao usar.”*  
-Feito com 💻, 🎨 e muita paixão por **criar experiências digitais incríveis.**
+Outras Competências
+
+SEO Básico
+
+Acessibilidade
+
+Boas práticas de versionamento (Git/GitHub)
+
+Organização e padronização de código
+
+🧠 Minha forma de trabalhar
+
+Análise do projeto e público-alvo
+
+Criação da interface (UI) e protótipo estruturado
+
+Desenvolvimento limpo, responsivo e otimizado
+
+Testes e melhorias contínuas para melhor experiência
+
+Entrega final com alto nível técnico
+
+Meu foco é garantir que cada projeto seja moderno, rápido e agradável de usar.
+
+📌 Nos meus repositórios você encontrará:
+
+🔹 Projetos em React
+🔹 Interfaces modernas e responsivas
+🔹 Landing pages completas
+🔹 Sistemas front-end dinâmicos
+🔹 Códigos organizados e escaláveis
+🔹 Projetos visuais prototipados no Figma
+
+🌍 Conecte-se comigo
+
+📩 E-mail: kauaandrefonseca@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/kauaandrefonseca
+
+🌐 Portfólio: (adicione quando estiver pronto)
+📸 Instagram (opcional)
+
+⭐ “Front-end não é só escrever código — é criar experiências que fazem sentido.”
