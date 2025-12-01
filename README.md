@@ -28,17 +28,10 @@ Minha stack de desenvolvimento é focada em performance, escalabilidade e experi
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | HTML5, CSS3, JavaScript (ES6+) |
-| **Frameworks/Libs** | React.js, Hooks, Context API, React Router |
+| **Frameworks/Libs** | React.js,|
 | **Estilização** | Tailwind CSS, Styled Components, Sass |
 | **Boas Práticas** | Design Responsivo (Mobile First), Acessibilidade (A11y), Otimização de Performance (Lighthouse) |
 | **Integração** | Consumo de APIs REST |
-
-#### Ferramentas & Fluxos
-- **Controle de Versão:** Git & GitHub
-- **Design:** Figma (UI/UX)
-- **Metodologias:** Metodologias Ágeis (Scrum)
-- **Testes:** Testes básicos (Jest + Testing Library)
-- **Deploy:** Netlify / Vercel
 
 ---
 
