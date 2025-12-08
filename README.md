@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Kauã André!
 
 ## Desenvolvedor Front-End | Especialista em Interfaces Modernas
 
