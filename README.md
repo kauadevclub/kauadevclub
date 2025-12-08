@@ -3,7 +3,7 @@
 ## Desenvolvedor Front-End | Especialista em Interfaces Modernas
 
 <p align="center">
-  <a href="[LINK DO SEU LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-andr%C3%A9-fonseca-68b830341/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="[LINK DO SEU EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="[LINK DO SEU PORTFÓLIO]"><img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"></a>
 </p>
@@ -35,26 +35,6 @@ Minha stack de desenvolvimento é focada em performance, escalabilidade e experi
 
 ---
 
-### 🌟 Projetos de Destaque
-
-Aqui estão alguns projetos que demonstram minha capacidade técnica e foco em resultados:
-
-#### 1. Portfólio Profissional (React)
-- **Descrição:** Interface moderna, clean e totalmente animada, destacando projetos reais e experiência técnica.
-- **Tecnologias:** React, [Adicionar Tecnologias Específicas]
-- **[Link do Projeto]** | **[Link do Código]**
-
-#### 2. Landing Page de Alta Conversão — Nicho de Psicologia Infantil
-- **Descrição:** Desenvolvimento completo de página profissional semelhante a grandes referências do mercado, com foco em estrutura, UX e responsividade.
-- **Tecnologias:** HTML5, CSS3, JavaScript, [Adicionar Tecnologias Específicas]
-- **[Link do Projeto]** | **[Link do Código]**
-
-#### 3. Site para Pizzaria (React + DeepSite)
-- **Descrição:** Site rápido, moderno e totalmente personalizado, com componentes reaproveitáveis e layout responsivo.
-- **Tecnologias:** React, [Adicionar Tecnologias Específicas]
-- **[Link do Projeto]** | **[Link do Código]**
-
----
 
 ### 🧠 Soft Skills
 
