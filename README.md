@@ -28,7 +28,7 @@ Tenho experiência prática com **análise exploratória**, **visualização de 
 
 🔹 **Linguagens & Dados**
 - Python (Pandas, NumPy)
-- SQL (SELECT, JOIN, GROUP BY, Subqueries)
+- SQL 
 - Estatística básica aplicada
 
 🔹 **Análise & Visualização**
