@@ -21,48 +21,88 @@
 
 ---
 
+---
+
 ## ✨ Sobre Mim
 
-Sou **Desenvolvedor Front-End** com foco em criar **interfaces modernas, rápidas e altamente responsivas**.  
-Tenho paixão por **design bem feito, experiência do usuário e código limpo**, sempre buscando entregar projetos que geram **impacto real e profissionalismo**.
+<table>
+<tr>
+<td width="65%">
 
-💡 Meu foco é transformar ideias em **interfaces que convertem, engajam e passam confiança**.
+💻 Sou **Desenvolvedor Front-End** focado em criar **interfaces modernas, rápidas e altamente responsivas**, unindo **design, performance e código limpo**.
 
----
+🚀 Tenho paixão por **experiência do usuário**, atenção aos detalhes e desenvolvimento de interfaces que geram **impacto real, credibilidade e conversão**.
 
-## 🧠 Especialidades
+💡 Transformo ideias em **produtos digitais profissionais**, pensados para escalar e performar bem.
 
-🚀 Interfaces modernas e responsivas  
-🎨 UI/UX Design profissional  
-⚡ Performance e otimização  
+</td>
+<td width="35%" align="center">
+
+⚛️ React  
+🎨 UI/UX  
 📱 Mobile First  
-🧩 Componentização reutilizável  
-🛠️ Código limpo e escalável  
+⚡ Performance  
+🧠 Clean Code  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Especialidades
+
+<table>
+<tr>
+<td align="center">🎨 <b>UI/UX Design</b><br/>Interfaces modernas e intuitivas</td>
+<td align="center">⚡ <b>Performance</b><br/>Sites rápidos e otimizados</td>
+<td align="center">📱 <b>Responsividade</b><br/>Mobile, tablet e desktop</td>
+</tr>
+<tr>
+<td align="center">🧩 <b>Componentização</b><br/>Código reutilizável</td>
+<td align="center">🚀 <b>Experiência</b><br/>Foco no usuário</td>
+<td align="center">🛠️ <b>Boas Práticas</b><br/>Código limpo e escalável</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack Tecnológica
+
+<table>
+<tr>
+<td width="33%">
 
 ### 👨‍💻 Linguagens
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)
 
-### ⚛️ Frameworks & Bibliotecas
+</td>
+<td width="33%">
+
+### ⚛️ Frameworks
 - React.js  
 - Bootstrap  
 - Tailwind CSS  
 
-### 🎨 Estilização
-- Flexbox  
-- Grid Layout  
+</td>
+<td width="33%">
+
+### 🎨 Estilização & Tools
+- Flexbox & Grid  
 - Animações CSS  
 - Design Responsivo  
-
-### 🔧 Ferramentas
+- Figma  
 - Git & GitHub  
 - VS Code  
-- Figma  
+
+</td>
+</tr>
+</table>
+
+---
+
 
 
 
