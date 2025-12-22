@@ -1,111 +1,81 @@
-<h1 align="center">🚀 Kauã André Fonseca</h1>
-<h3 align="center">💻 Desenvolvedor Front-End | UI/UX • React • JavaScript</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React.js-Modern%20UI-61DAFB?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript"/>
-</p>
+<img src="https://media.giphy.com/media/3o7TKx7C0GZxN8f5fG/giphy.gif" width="120"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://github.com/SEU_GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+# 📊 Analista de Dados Júnior | Python
+
+### Transformando dados em decisões inteligentes 🚀
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Queries-orange?style=for-the-badge&logo=postgresql)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge&logo=powerbi)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github)
+
+</div>
 
 ---
 
----
+## 👋 Sobre mim
 
-## ✨ Sobre Mim
+Sou **Analista de Dados Júnior** com foco em **Python**, apaixonado por transformar **dados brutos em insights estratégicos**.  
+Tenho experiência prática com **análise exploratória**, **visualização de dados** e **criação de dashboards**, sempre buscando **clareza, impacto e tomada de decisão baseada em dados**.
 
-<table>
-<tr>
-<td width="65%">
-
-💻 Sou **Desenvolvedor Front-End** focado em criar **interfaces modernas, rápidas e altamente responsivas**, unindo **design, performance e código limpo**.
-
-🚀 Tenho paixão por **experiência do usuário**, atenção aos detalhes e desenvolvimento de interfaces que geram **impacto real, credibilidade e conversão**.
-
-💡 Transformo ideias em **produtos digitais profissionais**, pensados para escalar e performar bem.
-
-</td>
-<td width="35%" align="center">
-
-⚛️ React  
-🎨 UI/UX  
-📱 Mobile First  
-⚡ Performance  
-🧠 Clean Code  
-
-</td>
-</tr>
-</table>
+📈 Meu objetivo é **ajudar empresas a crescerem** por meio de análises bem estruturadas e dados confiáveis.
 
 ---
 
-## 🚀 Especialidades
+## 🧠 Competências Técnicas
 
-<table>
-<tr>
-<td align="center">🎨 <b>UI/UX Design</b><br/>Interfaces modernas e intuitivas</td>
-<td align="center">⚡ <b>Performance</b><br/>Sites rápidos e otimizados</td>
-<td align="center">📱 <b>Responsividade</b><br/>Mobile, tablet e desktop</td>
-</tr>
-<tr>
-<td align="center">🧩 <b>Componentização</b><br/>Código reutilizável</td>
-<td align="center">🚀 <b>Experiência</b><br/>Foco no usuário</td>
-<td align="center">🛠️ <b>Boas Práticas</b><br/>Código limpo e escalável</td>
-</tr>
-</table>
+🔹 **Linguagens & Dados**
+- Python (Pandas, NumPy)
+- SQL (SELECT, JOIN, GROUP BY, Subqueries)
+- Estatística básica aplicada
+
+🔹 **Análise & Visualização**
+- Análise Exploratória de Dados (EDA)
+- Criação de dashboards interativos
+- Storytelling com dados
+
+🔹 **Ferramentas**
+- Power BI
+- Excel / Google Sheets
+- Jupyter Notebook
+- Git & GitHub
+
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🚀 O que eu entrego
 
-<table>
-<tr>
-<td width="33%">
-
-### 👨‍💻 Linguagens
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)
-
-</td>
-<td width="33%">
-
-### ⚛️ Frameworks
-- React.js  
-- Bootstrap  
-- Tailwind CSS  
-
-</td>
-<td width="33%">
-
-### 🎨 Estilização & Tools
-- Flexbox & Grid  
-- Animações CSS  
-- Design Responsivo  
-- Figma  
-- Git & GitHub  
-- VS Code  
-
-</td>
-</tr>
-</table>
+✅ Análises claras e objetivas  
+✅ Código limpo e organizado  
+✅ Visualizações que facilitam decisões  
+✅ Documentação profissional  
+✅ Foco total em resultados  
 
 ---
 
+## 🎯 Em constante evolução
 
+📚 Atualmente aprofundando conhecimentos em:
+- SQL avançado
+- Visualização de dados
+- Boas práticas de análise
+- Projetos orientados a negócio
 
+---
 
+## 📫 Contato
 
+💼 **LinkedIn:** *https://www.linkedin.com/in/kau%C3%A3-andr%C3%A9-fonseca-68b830341/*  
+📧 **E-mail:** *kauafacebook123@gmail.com*  
 
- ┗ 📄 package.json
+---
+
+<div align="center">
+
+### ⭐ Se este perfil te chamou atenção, fique à vontade para explorar meus projetos!
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
+
+</div>
