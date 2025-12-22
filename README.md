@@ -1,65 +1,97 @@
-# 👋 Olá, eu sou Kauã André!
+# 🧪 Quality Assurance | Testes de Software
 
-## Desenvolvedor Front-End | Especialista em Interfaces Modernas
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kau%C3%A3-andr%C3%A9-fonseca-68b830341/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[LINK DO SEU EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="[LINK DO SEU PORTFÓLIO]"><img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"></a>
-</p>
+👋 Olá! Eu sou **Kauã André Fonseca**, profissional de **Quality Assurance (QA)** com foco em **qualidade, confiabilidade e entrega de software sem falhas**.  
+Atuo garantindo que produtos digitais sejam **estáveis, seguros, performáticos e alinhados às necessidades do usuário e do negócio**.
 
 ---
 
-### 🚀 Sobre Mim
+## 🎯 Objetivo Profissional
 
-Sou **Desenvolvedor Front-End** com experiência prática na criação de interfaces modernas, rápidas e totalmente responsivas. Tenho foco em transformar ideias em aplicações funcionais, escaláveis e visualmente atraentes, combinando código limpo, boas práticas e atenção aos detalhes.
-
-Trabalho com **JavaScript**, **React**, **HTML5**, **CSS3** e tecnologias modernas para entregar resultados de alto padrão. Estou sempre evoluindo com estudos constantes e aplicando conceitos profissionais como componentização, acessibilidade, UX/UI e otimização de performance.
-
-Busco participar de projetos que valorizem qualidade, inovação e impacto real — contribuindo com soluções eficientes, visão estratégica e mentalidade de crescimento contínuo.
+Atuar como **Analista de QA / Testes de Software**, contribuindo para times ágeis através da **prevenção de bugs**, **melhoria contínua de processos** e **entrega de software de alta qualidade**, utilizando boas práticas, testes manuais e automatizados.
 
 ---
 
-### 🛠️ Competências Técnicas
+## 🧠 Sobre Mim
 
-Minha stack de desenvolvimento é focada em performance, escalabilidade e experiência do usuário.
+Sou apaixonado por tecnologia, qualidade e processos bem definidos. Tenho experiência com análise de requisitos, criação de cenários de teste, execução de testes funcionais e não funcionais, além de forte atenção aos detalhes.
 
-#### Front-End & Linguagens
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | HTML5, CSS3, JavaScript (ES6+) |
-| **Frameworks/Libs** | React.js,|
-| **Estilização** | Tailwind CSS, Styled Components, Sass |
-| **Boas Práticas** | Design Responsivo (Mobile First), Acessibilidade (A11y), Otimização de Performance (Lighthouse) |
-| **Integração** | Consumo de APIs REST |
+Acredito que **qualidade não é testar no final**, mas sim **construir certo desde o início**.
 
 ---
 
+## 🛠️ Habilidades Técnicas
 
-### 🧠 Soft Skills
+### 🔍 Testes de Software
+- Testes Funcionais
+- Testes Não Funcionais
+- Testes Exploratórios
+- Testes de Regressão
+- Testes de Aceitação (UAT)
+- Smoke Test & Sanity Test
 
-Minhas habilidades interpessoais que complementam minha atuação técnica:
+### 📋 Documentação e Análise
+- Casos de Teste
+- Cenários de Teste
+- Plano de Testes
+- Relatórios de Bugs
+- Matriz de Rastreabilidade
+- Análise de Requisitos
 
-- Comunicação clara e objetiva
-- Resolução de problemas
-- Organização e autonomia
-- Atenção aos detalhes
-- Facilidade em aprender novas tecnologias
-- Mentalidade de melhoria contínua
+### 🤖 Testes Automatizados
+- Automação de Testes (conceitos)
+- Testes E2E
+- Testes de Interface (UI)
+- Testes de API (conceitos)
+
+### ⚙️ Ferramentas
+- Git & GitHub
+- Jira
+- Trello
+- Postman
+- Google Sheets / Excel
+- DevTools (Chrome)
+
+
+
 
 ---
 
-### 📚 Formação
+## 🐞 Reporte de Bugs
 
-- **Análise e Desenvolvimento de Sistemas** — Microlins
+Todos os defeitos são reportados seguindo boas práticas:
+- Passos para reprodução
+- Resultado esperado x resultado atual
+- Evidências (prints ou vídeos)
+- Severidade e prioridade
+- Ambiente testado
 
 ---
 
-### 🎯 O que Busco
+## 📈 Diferenciais
 
-Oportunidades como **Desenvolvedor Front-End**, onde eu possa aplicar minhas habilidades técnicas, aprender com times experientes e entregar projetos com qualidade profissional.
+✅ Forte atenção aos detalhes  
+✅ Comunicação clara com time de desenvolvimento  
+✅ Mentalidade analítica  
+✅ Compromisso com qualidade  
+✅ Aprendizado contínuo  
 
-**Aberto para oportunidades, parcerias e novos projetos!**
+---
+
+## 📚 Em Aprendizado Contínuo
+
+- Automação de Testes
+- Testes de Performance
+- Testes de Segurança
+- CI/CD aplicado a QA
+
+---
+
+## 🌐 Contato
+
+- 💼 LinkedIn: *(adicione aqui seu link)*
+- 💻 GitHub: https://github.com/seu-usuario
 
 
-ao vivo
+---
+
+⭐ Se você acredita que **qualidade é essencial para o sucesso do produto**, estamos no mesmo time!
