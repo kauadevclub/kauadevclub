@@ -1,83 +1,94 @@
-<h1 align="center">🚀 Kauã André Fonseca</h1>
-<h3 align="center">💻 Desenvolvedor Front-End | UI/UX • React • JavaScript</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React.js-Modern%20UI-61DAFB?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://github.com/SEU_GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
 ---
 
 ## ✨ Sobre Mim
 
-Sou **Desenvolvedor Front-End** com foco em criar **interfaces modernas, rápidas e altamente responsivas**.  
-Tenho paixão por **design bem feito, experiência do usuário e código limpo**, sempre buscando entregar projetos que geram **impacto real e profissionalismo**.
+<table>
+<tr>
+<td width="60%">
 
-💡 Meu foco é transformar ideias em **interfaces que convertem, engajam e passam confiança**.
+💻 **Desenvolvedor Front-End** focado em criar **interfaces modernas, rápidas e responsivas**, unindo **design + código limpo + performance**.
 
----
+🚀 Trabalho com projetos que exigem **atenção aos detalhes**, boa experiência do usuário e padrões profissionais de desenvolvimento.
 
-## 🧠 Especialidades
+🎯 Meu objetivo é entregar **interfaces que geram impacto, conversão e credibilidade**.
 
-🚀 Interfaces modernas e responsivas  
-🎨 UI/UX Design profissional  
-⚡ Performance e otimização  
+</td>
+<td width="40%">
+
+🚀 Front-End  
+🎨 UI/UX  
+⚛️ React  
 📱 Mobile First  
-🧩 Componentização reutilizável  
-🛠️ Código limpo e escalável  
+⚡ Performance  
+🧠 Clean Code  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Minhas Especialidades
+
+<table>
+<tr>
+<td align="center">🎨 <b>UI/UX Design</b><br/>Interfaces modernas e intuitivas</td>
+<td align="center">⚡ <b>Performance</b><br/>Sites rápidos e otimizados</td>
+<td align="center">📱 <b>Responsividade</b><br/>Mobile, Tablet e Desktop</td>
+</tr>
+<tr>
+<td align="center">⚛️ <b>React.js</b><br/>Componentização avançada</td>
+<td align="center">🧩 <b>Código Limpo</b><br/>Padrões profissionais</td>
+<td align="center">🚀 <b>Experiência</b><br/>Foco no usuário</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack Tecnológica
+
+<table>
+<tr>
+<td width="33%">
 
 ### 👨‍💻 Linguagens
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)
 
-### ⚛️ Frameworks & Bibliotecas
+</td>
+<td width="33%">
+
+### ⚛️ Frameworks
 - React.js  
 - Bootstrap  
 - Tailwind CSS  
 
-### 🎨 Estilização
-- Flexbox  
-- Grid Layout  
-- Animações CSS  
-- Design Responsivo  
+</td>
+<td width="33%">
 
 ### 🔧 Ferramentas
 - Git & GitHub  
 - VS Code  
 - Figma  
-- Chrome DevTools  
+- DevTools  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Estrutura Padrão dos Projetos
+## 📦 Projetos & Estrutura
 
+<table>
+<tr>
+<td width="50%">
+
+📁 **Padrão de organização**
 ```bash
-📦 projeto-front-end
- ┣ 📁 assets
- ┃ ┣ 📁 images
- ┃ ┣ 📁 icons
- ┣ 📁 src
- ┃ ┣ 📁 components
- ┃ ┣ 📁 pages
- ┃ ┣ 📁 styles
- ┣ 📄 index.html
- ┣ 📄 README.md
- ┗ 📄 package.json
+src/
+ ┣ components/
+ ┣ pages/
+ ┣ styles/
+assets/
