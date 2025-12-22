@@ -88,8 +88,8 @@ Todos os defeitos são reportados seguindo boas práticas:
 
 ## 🌐 Contato
 
-- 💼 LinkedIn: *(adicione aqui seu link)*
-- 💻 GitHub: https://github.com/seu-usuario
+- 💼 LinkedIn: *https://www.linkedin.com/in/kau%C3%A3-andr%C3%A9-fonseca-68b830341/*
+- 💻 GitHub: https://github.com/kauadevclub
 
 
 ---
