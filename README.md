@@ -1,97 +1,83 @@
-# 🧪 Quality Assurance | Testes de Software
+<h1 align="center">🚀 Kauã André Fonseca</h1>
+<h3 align="center">💻 Desenvolvedor Front-End | UI/UX • React • JavaScript</h3>
 
-👋 Olá! Eu sou **Kauã André Fonseca**, profissional de **Quality Assurance (QA)** com foco em **qualidade, confiabilidade e entrega de software sem falhas**.  
-Atuo garantindo que produtos digitais sejam **estáveis, seguros, performáticos e alinhados às necessidades do usuário e do negócio**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React.js-Modern%20UI-61DAFB?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript"/>
+</p>
 
----
-
-## 🎯 Objetivo Profissional
-
-Atuar como **Analista de QA / Testes de Software**, contribuindo para times ágeis através da **prevenção de bugs**, **melhoria contínua de processos** e **entrega de software de alta qualidade**, utilizando boas práticas, testes manuais e automatizados.
-
----
-
-## 🧠 Sobre Mim
-
-Sou apaixonado por tecnologia, qualidade e processos bem definidos. Tenho experiência com análise de requisitos, criação de cenários de teste, execução de testes funcionais e não funcionais, além de forte atenção aos detalhes.
-
-Acredito que **qualidade não é testar no final**, mas sim **construir certo desde o início**.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-### 🔍 Testes de Software
-- Testes Funcionais
-- Testes Não Funcionais
-- Testes Exploratórios
-- Testes de Regressão
-- Testes de Aceitação (UAT)
-- Smoke Test & Sanity Test
-
-### 📋 Documentação e Análise
-- Casos de Teste
-- Cenários de Teste
-- Plano de Testes
-- Relatórios de Bugs
-- Matriz de Rastreabilidade
-- Análise de Requisitos
-
-### 🤖 Testes Automatizados
-- Automação de Testes (conceitos)
-- Testes E2E
-- Testes de Interface (UI)
-- Testes de API (conceitos)
-
-### ⚙️ Ferramentas
-- Git & GitHub
-- Jira
-- Trello
-- Postman
-- Google Sheets / Excel
-- DevTools (Chrome)
-
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://github.com/SEU_GITHUB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## 🐞 Reporte de Bugs
+## ✨ Sobre Mim
 
-Todos os defeitos são reportados seguindo boas práticas:
-- Passos para reprodução
-- Resultado esperado x resultado atual
-- Evidências (prints ou vídeos)
-- Severidade e prioridade
-- Ambiente testado
+Sou **Desenvolvedor Front-End** com foco em criar **interfaces modernas, rápidas e altamente responsivas**.  
+Tenho paixão por **design bem feito, experiência do usuário e código limpo**, sempre buscando entregar projetos que geram **impacto real e profissionalismo**.
+
+💡 Meu foco é transformar ideias em **interfaces que convertem, engajam e passam confiança**.
 
 ---
 
-## 📈 Diferenciais
+## 🧠 Especialidades
 
-✅ Forte atenção aos detalhes  
-✅ Comunicação clara com time de desenvolvimento  
-✅ Mentalidade analítica  
-✅ Compromisso com qualidade  
-✅ Aprendizado contínuo  
-
----
-
-## 📚 Em Aprendizado Contínuo
-
-- Automação de Testes
-- Testes de Performance
-- Testes de Segurança
-- CI/CD aplicado a QA
+🚀 Interfaces modernas e responsivas  
+🎨 UI/UX Design profissional  
+⚡ Performance e otimização  
+📱 Mobile First  
+🧩 Componentização reutilizável  
+🛠️ Código limpo e escalável  
 
 ---
 
-## 🌐 Contato
+## 🛠️ Tecnologias & Ferramentas
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/kau%C3%A3-andr%C3%A9-fonseca-68b830341/*
-- 💻 GitHub: https://github.com/kauadevclub
+### 👨‍💻 Linguagens
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
 
+### ⚛️ Frameworks & Bibliotecas
+- React.js  
+- Bootstrap  
+- Tailwind CSS  
+
+### 🎨 Estilização
+- Flexbox  
+- Grid Layout  
+- Animações CSS  
+- Design Responsivo  
+
+### 🔧 Ferramentas
+- Git & GitHub  
+- VS Code  
+- Figma  
+- Chrome DevTools  
 
 ---
 
-⭐ Se você acredita que **qualidade é essencial para o sucesso do produto**, estamos no mesmo time!
+## 📂 Estrutura Padrão dos Projetos
+
+```bash
+📦 projeto-front-end
+ ┣ 📁 assets
+ ┃ ┣ 📁 images
+ ┃ ┣ 📁 icons
+ ┣ 📁 src
+ ┃ ┣ 📁 components
+ ┃ ┣ 📁 pages
+ ┃ ┣ 📁 styles
+ ┣ 📄 index.html
+ ┣ 📄 README.md
+ ┗ 📄 package.json
