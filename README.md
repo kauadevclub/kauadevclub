@@ -71,23 +71,6 @@ Sou **Desenvolvedor No-Code / Low-Code**, especializado em **criar aplicações,
 
 ---
 
-## 🛠️ **Stack No-Code / Low-Code**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,figma" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Bubble-000000?style=for-the-badge&logo=bubble&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webflow-000000?style=for-the-badge&logo=webflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=integromat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zapier-000000?style=for-the-badge&logo=zapier&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airtable-000000?style=for-the-badge&logo=airtable&logoColor=white"/>
-</p>
-
----
-
 ## 🧩 **Diferenciais Que Recrutadores Procuram**
 
 ✔ Desenvolvimento **rápido e escalável**  
@@ -121,13 +104,13 @@ Sou **Desenvolvedor No-Code / Low-Code**, especializado em **criar aplicações,
 ## 📫 **Vamos Conversar?**
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/kau%C3%A3-andr%C3%A9-fonseca-68b830341/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="kauaprogamadorprofissional@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/kauadevclub">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
