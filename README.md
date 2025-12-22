@@ -44,7 +44,7 @@ Sou **Desenvolvedor No-Code / Low-Code**, especializado em **criar aplicações,
 ### 🌐 Sites & Landing Pages
 - Webflow
 - Framer
-- WordPress (Low-Code)
+- HTML/CSS/JAVASCRIPT
 - Design moderno + responsivo
 
 </td>
@@ -62,20 +62,8 @@ Sou **Desenvolvedor No-Code / Low-Code**, especializado em **criar aplicações,
 <tr>
 <td>
 
-### ⚙️ Automações
-- Make (Integromat)
-- Zapier
-- Power Automate
-- Integrações inteligentes
-
 </td>
 <td>
-
-### 📊 Dashboards & Dados
-- Airtable
-- Google Sheets
-- Notion
-- Sistemas internos sob medida
 
 </td>
 </tr>
