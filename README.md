@@ -1,11 +1,11 @@
 <!-- BANNER ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=No-Code%20|%20Low-Code%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Front-End%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=800&lines=Automatizando+negócios+sem+código;Criando+apps+e+sites+em+tempo+recorde;Produtividade,+escala+e+resultado+real" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=800&lines=Interfaces+modernas+e+responsivas;Experiência+do+usuário+em+foco;Código+limpo,+performance+e+escala" />
 </p>
 
 ---
@@ -16,13 +16,13 @@
 <tr>
 <td width="60%">
 
-Sou **Desenvolvedor No-Code / Low-Code**, especializado em **criar aplicações, sites e automações profissionais** de forma **rápida, escalável e eficiente**, sem depender de código tradicional.
+Sou **Desenvolvedor Front-End**, especializado em **criar interfaces modernas, responsivas e performáticas**, utilizando **tecnologias atuais do mercado** para entregar **experiências visuais de alto nível**.
 
-💡 Meu foco é **resolver problemas reais de negócios**, entregando soluções **funcionais, bonitas e prontas para produção**.
+💡 Meu foco é transformar **design em código**, garantindo **usabilidade, performance e fidelidade visual** em cada projeto.
 
 ✔ Ideal para startups  
 ✔ Ideal para empresas  
-✔ Ideal para validação rápida (MVP)
+✔ Ideal para produtos digitais escaláveis  
 
 </td>
 <td width="40%" align="center">
@@ -41,20 +41,20 @@ Sou **Desenvolvedor No-Code / Low-Code**, especializado em **criar aplicações,
 <tr>
 <td>
 
-### 🌐 Sites & Landing Pages
-- Webflow
-- Framer
-- HTML/CSS/JAVASCRIPT
-- Design moderno + responsivo
+### 🌐 Desenvolvimento Front-End
+- HTML5 / CSS3 / JavaScript
+- React.js
+- Componentização moderna
+- Interfaces rápidas e acessíveis
 
 </td>
 <td>
 
-### 📱 Apps & Sistemas
-- Bubble
-- Glide
-- Adalo
-- MVPs prontos em dias
+### 🎨 Estilização & UI
+- Tailwind CSS
+- Bootstrap
+- Design responsivo
+- Foco em UX/UI profissional
 
 </td>
 </tr>
@@ -73,22 +73,22 @@ Sou **Desenvolvedor No-Code / Low-Code**, especializado em **criar aplicações,
 
 ## 🧩 **Diferenciais Que Recrutadores Procuram**
 
-✔ Desenvolvimento **rápido e escalável**  
-✔ Foco em **negócio e resultado**, não só ferramenta  
-✔ Pensamento de **produto digital**  
-✔ Entrega de **MVP funcional em poucos dias**  
-✔ Excelente **UX/UI mesmo sem código**
+✔ Código **organizado e reutilizável**  
+✔ Interfaces **modernas e responsivas**  
+✔ Foco em **experiência do usuário (UX)**  
+✔ Atenção a **performance e boas práticas**  
+✔ Mentalidade de **produto digital**
 
 ---
 
 ## 📌 **Tipos de Projetos Que Desenvolvo**
 
-- MVPs para startups  
-- Sistemas internos empresariais  
-- Landing pages de alta conversão  
-- Apps mobile No-Code  
-- Automações que economizam horas de trabalho  
-- Painéis administrativos (dashboards)
+- Sites institucionais modernos  
+- Landing pages responsivas  
+- Interfaces para sistemas web  
+- Dashboards front-end  
+- Aplicações React.js  
+- Projetos focados em UX/UI
 
 ---
 
@@ -107,7 +107,7 @@ Sou **Desenvolvedor No-Code / Low-Code**, especializado em **criar aplicações,
   <a href="https://www.linkedin.com/in/kau%C3%A3-andr%C3%A9-fonseca-68b830341/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="kauaprogamadorprofissional@gmail.com">
+  <a href="mailto:kauaprogamadorprofissional@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/kauadevclub">
@@ -118,7 +118,7 @@ Sou **Desenvolvedor No-Code / Low-Code**, especializado em **criar aplicações,
 ---
 
 <p align="center">
-  <strong>⚡ No-Code não é limitação. É velocidade, escala e inteligência.</strong>
+  <strong>⚡ Front-End não é só visual. É experiência, performance e impacto.</strong>
 </p>
 
 <!-- FOOTER -->
